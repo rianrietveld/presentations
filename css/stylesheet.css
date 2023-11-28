@@ -1,0 +1,16 @@
+body {
+    margin: 1em auto;
+    max-width: 50em;
+    padding: 1em;
+    line-height: 2;
+}
+* {
+    font-family:  Courier, monospace;
+    color: #333333;
+    background-color: #d1e3dc;
+}
+
+h1, h2, h3 {
+    font-family:  sans-serif;
+}
+
