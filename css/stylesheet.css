@@ -1,8 +1,9 @@
 body {
     margin: 1em auto;
     max-width: 50em;
-    padding: 1em;
+    padding: 0 2em;
     line-height: 2;
+    font-size: 2em;
 }
 * {
     font-family:  Courier, monospace;
@@ -12,5 +13,11 @@ body {
 
 h1, h2, h3 {
     font-family:  sans-serif;
+}
+
+img {
+    display: block;
+    margin: 1em auto;
+    padding: 0 1em;
 }
 
